@@ -3,5 +3,23 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1"
-  }
+  },
+  "name": "projectgractorbe",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gofl26/projectGractorBE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gofl26/projectGractorBE/issues"
+  },
+  "homepage": "https://github.com/gofl26/projectGractorBE#readme",
+  "description": ""
 }
